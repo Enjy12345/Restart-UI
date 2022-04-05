@@ -15,7 +15,7 @@ I'm a IOS Developer ...
 
 ## Screenshots
 
-![Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot](Screen Shot 2022-04-05 at 8.58.31 PM.png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
