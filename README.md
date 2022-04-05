@@ -4,6 +4,17 @@
 The main goal of this project to create complex UI gestures and
  use multiple movements in the opposite direction
 
+
+## Screenshots
+
+![Screenshot](Screen%20Shot%202022-04-05%20at%208.58.31%20PM.png)
+
+![App Screenshot](Screen%20Shot%202022-04-05%20at%208.58.41%20PM.png)
+
+## 🔗 Links
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Enjy12345)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enjy-khaled-58432a1b0/)
+
 ## Authors
 
 - [@Enjy12345](https://github.com/Enjy12345)
@@ -13,15 +24,6 @@ The main goal of this project to create complex UI gestures and
 I'm a IOS Developer ...
 
 
-## Screenshots
-
-![Screenshot](Screen%20Shot%202022-04-05%20at%208.58.31%20PM.png)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-## 🔗 Links
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Enjy12345)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enjy-khaled-58432a1b0/)
 
 
 ## 🛠 Skills
